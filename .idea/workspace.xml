@@ -4,9 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ac640dd-b23c-4a06-b962-855284cbb1ba" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/py_balakirev/6_dict,tuple,set/6-1_dict/6.1.3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+    <list default="true" id="54498703-2cec-4989-ac1f-0a6caa9b5468" name="Changes" comment="6.1.3">
+      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict/6.1.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict/6.1.5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict/6.1.3.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict/6.1.3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_balakirev/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_balakirev/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_balakirev/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_balakirev/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_balakirev/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_balakirev/.idea/py_projects.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_balakirev/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/py_balakirev/6_dict,tuple,set/6-1_dict/6.1.3.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,43 +33,23 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "evgShamshin"
-  }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/evgShamshin/py_balakirev.git",
-    "accountId": "bee1fcb8-39db-484f-b878-b182ea11f90e"
-  }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
-  <component name="ProjectId" id="2jyg6Vmn9ssmHgICTDH17waFAXH" />
-  <component name="ProjectViewState">
-    <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showLibraryContents" value="true" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.6.1.3.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Python.6.1.4.executor": "Run",
+    "Python.6.1.5.executor": "Run",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/evg_shamshin/Documents/py_projects",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+    "node.js.selected.package.tslint": "(autodetect)"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.6.1.5">
     <configuration name="6.1.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
@@ -67,12 +59,58 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/py_balakirev/6_dict,tuple,set/6-1_dict" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/py_balakirev/6_dict,tuple,set/6-1_dict/6.1.3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict/6.1.3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.1.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict/6.1.4.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="6.1.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict/6.1.5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,34 +121,31 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.6.1.5" />
+        <item itemvalue="Python.6.1.4" />
         <item itemvalue="Python.6.1.3" />
       </list>
     </recent_temporary>
   </component>
-  <component name="SharedIndexes">
-    <attachedChunks>
-      <set>
-        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
-        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
-      </set>
-    </attachedChunks>
-  </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="2ac640dd-b23c-4a06-b962-855284cbb1ba" name="Changes" comment="" />
-      <created>1722364555749</created>
-      <option name="number" value="Default" />
-      <option name="presentableId" value="Default" />
-      <updated>1722364555749</updated>
-      <workItem from="1722364557448" duration="3122000" />
+    <task id="LOCAL-00001" summary="6.1.3">
+      <option name="closed" value="true" />
+      <created>1722368627484</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1722368627484</updated>
     </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="6.1.3" />
+    <option name="LAST_COMMIT_MESSAGE" value="6.1.3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/py_projects$6_1_3.coverage" NAME="6.1.3 Coverage Results" MODIFIED="1722368149389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/py_balakirev/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_projects$6_1_4.coverage" NAME="6.1.4 Coverage Results" MODIFIED="1722405984032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_projects$6_1_3.coverage" NAME="6.1.3 Coverage Results" MODIFIED="1722370732693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_projects$6_1_5.coverage" NAME="6.1.5 Coverage Results" MODIFIED="1722407088963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
   </component>
 </project>
