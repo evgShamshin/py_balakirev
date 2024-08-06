@@ -1,7 +1,9 @@
-num = tuple(map(int, input().split()))
-res = []
+t = ((1, 0, 0, 0, 0),
+     (0, 1, 0, 0, 0),
+     (0, 0, 1, 0, 0),
+     (0, 0, 0, 1, 0),
+     (0, 0, 0, 0, 1))
 
-for n in range(len(num)):
-    res.append(n) if num.count(num[n]) > 1 else res
-
-print(*res)
+num = int(input())
+for i in range(num):
+     print(*t[i][:num])
