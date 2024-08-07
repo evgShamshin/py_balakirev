@@ -4,8 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498703-2cec-4989-ac1f-0a6caa9b5468" name="Changes" comment="24.08.02">
-      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods/6.2.07.py" afterDir="false" />
+    <list default="true" id="54498703-2cec-4989-ac1f-0a6caa9b5468" name="Changes" comment="24.08.06">
+      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.7.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/py_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_projects.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="Python Script" />
       </list>
     </option>
@@ -23,7 +32,9 @@
   <component name="Git.Settings">
     <option name="PREVIOUS_COMMIT_AUTHORS">
       <list>
+        <option value="GitHub &lt;noreply@github.com&gt;" />
         <option value="evgShamshin &lt;i@eshamshin.ru&gt;" />
+        <option value="Evgeniy Shamshin &lt;98880891+evgshamshin@users.noreply.github.com&gt;" />
       </list>
     </option>
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -55,6 +66,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.6.1.03.executor": "Run",
     "Python.6.1.10.executor": "Run",
     "Python.6.1.3.executor": "Run",
     "Python.6.1.4.executor": "Run",
@@ -68,18 +80,35 @@
     "Python.6.2.05.executor": "Run",
     "Python.6.2.06.executor": "Run",
     "Python.6.2.07.executor": "Run",
+    "Python.6.3.1.executor": "Run",
+    "Python.6.3.4.executor": "Run",
+    "Python.6.3.5.executor": "Run",
+    "Python.6.3.6.executor": "Run",
+    "Python.6.3.8.executor": "Run",
+    "Python.6.4.3.executor": "Run",
+    "Python.6.4.5.executor": "Run",
+    "Python.6.4.6.executor": "Run",
+    "Python.6.4.7.executor": "Run",
+    "Python.6.4.8.executor": "Run",
+    "Python.6.5.2.executor": "Run",
+    "Python.6.5.3.executor": "Run",
+    "Python.6.5.6.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/evg_shamshin/Documents/py_projects",
+    "last_opened_file_path": "C:/Users/evg_shamshin/Documents/py_projects/py_balakirev",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.6.2.07">
-    <configuration name="6.2.03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.6.5.7">
+    <configuration name="12.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/12.js" working-dir="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing">
+      <method v="2" />
+    </configuration>
+    <configuration name="6.5.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,12 +117,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods/6.2.03.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.2.04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6.5.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -111,12 +140,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods/6.2.04.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +154,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.2.05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6.5.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,12 +163,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods/6.2.05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +177,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.2.06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="6.5.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -157,35 +186,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods/6.2.06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="6.2.07" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_projects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods/6.2.07.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing/6.5.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +202,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.6.2.07" />
-        <item itemvalue="Python.6.2.06" />
-        <item itemvalue="Python.6.2.05" />
-        <item itemvalue="Python.6.2.04" />
-        <item itemvalue="Python.6.2.03" />
+        <item itemvalue="Python.6.5.7" />
+        <item itemvalue="Python.6.5.6" />
+        <item itemvalue="Python.6.5.3" />
+        <item itemvalue="Python.6.5.2" />
+        <item itemvalue="Node.js.12.js" />
       </list>
     </recent_temporary>
   </component>
@@ -241,6 +247,12 @@
       <workItem from="1722493182688" duration="9587000" />
       <workItem from="1722624250488" duration="4779000" />
       <workItem from="1722666693304" duration="3586000" />
+      <workItem from="1722715902048" duration="86000" />
+      <workItem from="1722717207793" duration="138000" />
+      <workItem from="1722717639755" duration="211000" />
+      <workItem from="1722877456994" duration="8709000" />
+      <workItem from="1722953189025" duration="9684000" />
+      <workItem from="1723058750490" duration="3699000" />
     </task>
     <task id="LOCAL-00003" summary="24.07.31">
       <option name="closed" value="true" />
@@ -274,18 +286,55 @@
       <option name="project" value="LOCAL" />
       <updated>1722630152623</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="24.08.05">
+      <option name="closed" value="true" />
+      <created>1722889748399</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1722889748399</updated>
+    </task>
+    <task id="LOCAL-00008" summary="24.08.05">
+      <option name="closed" value="true" />
+      <created>1722891048112</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1722891048112</updated>
+    </task>
+    <task id="LOCAL-00009" summary="24.08.06">
+      <option name="closed" value="true" />
+      <created>1722973625063</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1722973625063</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="6.1.3" />
     <MESSAGE value="24.07.31" />
     <MESSAGE value="24.08.01" />
     <MESSAGE value="24.08.02" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.08.02" />
+    <MESSAGE value="24.08.05" />
+    <MESSAGE value="24.08.06" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.08.06" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -299,17 +348,31 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/py_balakirev$6_3_4.coverage" NAME="6.3.4 Coverage Results" MODIFIED="1722878461465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
+    <SUITE FILE_PATH="coverage/py_projects$6_1_5.coverage" NAME="6.1.5 Coverage Results" MODIFIED="1722452351347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_5_3.coverage" NAME="6.5.3 Coverage Results" MODIFIED="1723061327381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_4_5.coverage" NAME="6.4.5 Coverage Results" MODIFIED="1722961140196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_4_8.coverage" NAME="6.4.8 Coverage Results" MODIFIED="1722973174502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_5_6.coverage" NAME="6.5.6 Coverage Results" MODIFIED="1723062297425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
+    <SUITE FILE_PATH="coverage/py_projects$6_2_05.coverage" NAME="6.2.05 Coverage Results" MODIFIED="1722628565792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
+    <SUITE FILE_PATH="coverage/py_projects$6_1_4.coverage" NAME="6.1.4 Coverage Results" MODIFIED="1722405984032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_projects$6_1_7.coverage" NAME="6.1.7 Coverage Results" MODIFIED="1722456146712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_3_5.coverage" NAME="6.3.5 Coverage Results" MODIFIED="1722880560510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_3_8.coverage" NAME="6.3.8 Coverage Results" MODIFIED="1722957903672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_4_6.coverage" NAME="6.4.6 Coverage Results" MODIFIED="1722962875782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_4_3.coverage" NAME="6.4.3 Coverage Results" MODIFIED="1722960722304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_6.coverage" NAME="6.1.6 Coverage Results" MODIFIED="1722452922809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
     <SUITE FILE_PATH="coverage/py_projects$6_2_07.coverage" NAME="6.2.07 Coverage Results" MODIFIED="1722714778455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_10.coverage" NAME="6.1.10 Coverage Results" MODIFIED="1722496310137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_5_7.coverage" NAME="6.5.7 Coverage Results" MODIFIED="1723063406938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_9.coverage" NAME="6.1.9 Coverage Results" MODIFIED="1722495086735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
     <SUITE FILE_PATH="coverage/py_projects$6_2_04.coverage" NAME="6.2.04 Coverage Results" MODIFIED="1722542222986" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
-    <SUITE FILE_PATH="coverage/py_projects$6_1_5.coverage" NAME="6.1.5 Coverage Results" MODIFIED="1722452351347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
-    <SUITE FILE_PATH="coverage/py_projects$6_2_05.coverage" NAME="6.2.05 Coverage Results" MODIFIED="1722628565792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_8.coverage" NAME="6.1.8 Coverage Results" MODIFIED="1722456769912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
-    <SUITE FILE_PATH="coverage/py_projects$6_1_4.coverage" NAME="6.1.4 Coverage Results" MODIFIED="1722405984032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
-    <SUITE FILE_PATH="coverage/py_projects$6_1_7.coverage" NAME="6.1.7 Coverage Results" MODIFIED="1722456146712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_3_1.coverage" NAME="6.3.1 Coverage Results" MODIFIED="1722960707919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
     <SUITE FILE_PATH="coverage/py_projects$6_2_03.coverage" NAME="6.2.03 Coverage Results" MODIFIED="1722541973046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_3_6.coverage" NAME="6.3.6 Coverage Results" MODIFIED="1722887605823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_4_7.coverage" NAME="6.4.7 Coverage Results" MODIFIED="1722972622108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_5_2.coverage" NAME="6.5.2 Coverage Results" MODIFIED="1723061130133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_3.coverage" NAME="6.1.3 Coverage Results" MODIFIED="1722370732693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
     <SUITE FILE_PATH="coverage/py_projects$6_2_06.coverage" NAME="6.2.06 Coverage Results" MODIFIED="1722629529690" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
   </component>
