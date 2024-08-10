@@ -4,9 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498703-2cec-4989-ac1f-0a6caa9b5468" name="Changes" comment="24.08.08">
-      <change afterPath="$PROJECT_DIR$/2_introduction/2-1_variables/2.2.8.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_introduction/2-1_variables/2.2.9.py" afterDir="false" />
+    <list default="true" id="54498703-2cec-4989-ac1f-0a6caa9b5468" name="Changes" comment="24.08.09">
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-3_math function/2.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-3_math function/2.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-3_math function/2.3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-3_math function/2.3.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-3_math function/2.3.6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-3_math function/2.3.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-3_math function/2.3.8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-4-print and input/2.4.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-4-print and input/2.4.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-4-print and input/2.4.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-4-print and input/2.4.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2_introduction/2-4-print and input/2.4.5.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,9 +77,16 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.2.2.11.executor": "Run",
     "Python.2.2.3.executor": "Run",
     "Python.2.2.8.executor": "Run",
     "Python.2.2.9 (1).executor": "Run",
+    "Python.2.3.3.executor": "Run",
+    "Python.2.3.5.executor": "Run",
+    "Python.2.3.6.executor": "Run",
+    "Python.2.3.7.executor": "Run",
+    "Python.2.3.8.executor": "Run",
+    "Python.2.4.1.executor": "Run",
     "Python.6.1.03.executor": "Run",
     "Python.6.1.10.executor": "Run",
     "Python.6.1.3.executor": "Run",
@@ -90,6 +107,7 @@
     "Python.6.3.6.executor": "Run",
     "Python.6.3.8.executor": "Run",
     "Python.6.4.3.executor": "Run",
+    "Python.6.4.4.executor": "Run",
     "Python.6.4.5.executor": "Run",
     "Python.6.4.6.executor": "Run",
     "Python.6.4.7.executor": "Run",
@@ -115,8 +133,8 @@
       <recent name="C:\Users\evg_shamshin\Documents\py_projects\py_balakirev\2_introduction\2-1_variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.2.2.11">
-    <configuration name="2.2.11" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2.4.4">
+    <configuration name="2.3.7" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -125,12 +143,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_introduction/2-1_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_introduction/2-3_math function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_introduction/2-1_variables/2.2.11.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_introduction/2-3_math function/2.3.7.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.2.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.3.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,12 +166,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_introduction/2-1_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_introduction/2-3_math function" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_introduction/2-1_variables/2.2.8.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_introduction/2-3_math function/2.3.8.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.2.9 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.4.1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -171,12 +189,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_introduction/2-1_variables" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_introduction/2-4-print and input" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_introduction/2-1_variables/2.2.9.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2_introduction/2-4-print and input/2.4.1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,7 +203,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.2.9" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.4.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,12 +212,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_introduction/2-2_num operation" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_introduction/2-4-print and input" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\evg_shamshin\Documents\py_projects\py_balakirev\2_introduction\2-1_variables\2.2.9.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\evg_shamshin\Documents\py_projects\py_balakirev\2_introduction\2-4-print and input\2.4.3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,7 +226,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6.6.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.4.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -217,12 +235,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_dict,tuple,set/6-6_set and dictionary generators" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2_introduction/2-4-print and input" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_dict,tuple,set/6-6_set and dictionary generators/6.6.6.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\evg_shamshin\Documents\py_projects\py_balakirev\2_introduction\2-4-print and input\2.4.4.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -233,11 +251,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.2.11" />
-        <item itemvalue="Python.2.2.9 (1)" />
-        <item itemvalue="Python.2.2.8" />
-        <item itemvalue="Python.2.2.9" />
-        <item itemvalue="Python.6.6.6" />
+        <item itemvalue="Python.2.4.4" />
+        <item itemvalue="Python.2.4.3" />
+        <item itemvalue="Python.2.4.1" />
+        <item itemvalue="Python.2.3.8" />
+        <item itemvalue="Python.2.3.7" />
       </list>
     </recent_temporary>
   </component>
@@ -286,7 +304,7 @@
       <workItem from="1723058750490" duration="3951000" />
       <workItem from="1723133934783" duration="767000" />
       <workItem from="1723140779600" duration="7713000" />
-      <workItem from="1723230761673" duration="862000" />
+      <workItem from="1723230761673" duration="5095000" />
     </task>
     <task id="LOCAL-00003" summary="24.07.31">
       <option name="closed" value="true" />
@@ -360,7 +378,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723148385847</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="24.08.09">
+      <option name="closed" value="true" />
+      <created>1723236460904</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1723236460904</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -386,7 +412,8 @@
     <MESSAGE value="24.08.06" />
     <MESSAGE value="24.08.07" />
     <MESSAGE value="24.08.08" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.08.08" />
+    <MESSAGE value="24.08.09" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.08.09" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -402,20 +429,27 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/py_balakirev$6_6_6.coverage" NAME="6.6.6 Coverage Results" MODIFIED="1723147293397" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-6_set and dictionary generators" />
     <SUITE FILE_PATH="coverage/py_balakirev$2_2_3.coverage" NAME="2.2.3 Coverage Results" MODIFIED="1723230874939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-2_num operation" />
+    <SUITE FILE_PATH="coverage/py_balakirev$2_3_7.coverage" NAME="2.3.7 Coverage Results" MODIFIED="1723322001708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-3_math function" />
     <SUITE FILE_PATH="coverage/py_balakirev$2_2_9__1_.coverage" NAME="2.2.9 (1) Coverage Results" MODIFIED="1723235764772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-1_variables" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_3_4.coverage" NAME="6.3.4 Coverage Results" MODIFIED="1722878461465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_5.coverage" NAME="6.1.5 Coverage Results" MODIFIED="1722452351347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_balakirev$2_3_6.coverage" NAME="2.3.6 Coverage Results" MODIFIED="1723321952946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-3_math function" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_5_3.coverage" NAME="6.5.3 Coverage Results" MODIFIED="1723061327381" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
+    <SUITE FILE_PATH="coverage/py_balakirev$2_3_3.coverage" NAME="2.3.3 Coverage Results" MODIFIED="1723321132657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-3_math function" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_4_5.coverage" NAME="6.4.5 Coverage Results" MODIFIED="1722961140196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_4_8.coverage" NAME="6.4.8 Coverage Results" MODIFIED="1722973174502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_5_6.coverage" NAME="6.5.6 Coverage Results" MODIFIED="1723062297425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
     <SUITE FILE_PATH="coverage/py_projects$6_2_05.coverage" NAME="6.2.05 Coverage Results" MODIFIED="1722628565792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$2_4_1.coverage" NAME="2.4.1 Coverage Results" MODIFIED="1723322456543" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-4-print and input" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_4.coverage" NAME="6.1.4 Coverage Results" MODIFIED="1722405984032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_7.coverage" NAME="6.1.7 Coverage Results" MODIFIED="1722456146712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
+    <SUITE FILE_PATH="coverage/py_balakirev$2_2_11.coverage" NAME="2.2.11 Coverage Results" MODIFIED="1723236318220" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-1_variables" />
+    <SUITE FILE_PATH="coverage/py_balakirev$2_3_8.coverage" NAME="2.3.8 Coverage Results" MODIFIED="1723322188082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-3_math function" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_3_5.coverage" NAME="6.3.5 Coverage Results" MODIFIED="1722880560510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_3_8.coverage" NAME="6.3.8 Coverage Results" MODIFIED="1722957903672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_4_6.coverage" NAME="6.4.6 Coverage Results" MODIFIED="1722962875782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
-    <SUITE FILE_PATH="coverage/py_balakirev$6_4_3.coverage" NAME="6.4.3 Coverage Results" MODIFIED="1722960722304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$2_3_5.coverage" NAME="2.3.5 Coverage Results" MODIFIED="1723321337879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-3_math function" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_4_3.coverage" NAME="6.4.3 Coverage Results" MODIFIED="1723322585269" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-4-print and input" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_6.coverage" NAME="6.1.6 Coverage Results" MODIFIED="1722452922809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
     <SUITE FILE_PATH="coverage/py_projects$6_2_07.coverage" NAME="6.2.07 Coverage Results" MODIFIED="1722714778455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_10.coverage" NAME="6.1.10 Coverage Results" MODIFIED="1722496310137" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
@@ -425,6 +459,7 @@
     <SUITE FILE_PATH="coverage/py_balakirev$2_2_8.coverage" NAME="2.2.8 Coverage Results" MODIFIED="1723231018256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-1_variables" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_8.coverage" NAME="6.1.8 Coverage Results" MODIFIED="1722456769912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_3_1.coverage" NAME="6.3.1 Coverage Results" MODIFIED="1722960707919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$6_4_4.coverage" NAME="6.4.4 Coverage Results" MODIFIED="1723322786316" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-4-print and input" />
     <SUITE FILE_PATH="coverage/py_projects$6_2_03.coverage" NAME="6.2.03 Coverage Results" MODIFIED="1722541973046" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_3_6.coverage" NAME="6.3.6 Coverage Results" MODIFIED="1722887605823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_4_7.coverage" NAME="6.4.7 Coverage Results" MODIFIED="1722972622108" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
