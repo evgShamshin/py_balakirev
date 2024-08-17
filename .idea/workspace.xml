@@ -5,13 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="54498703-2cec-4989-ac1f-0a6caa9b5468" name="Changes" comment="24.08.16">
-      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions/4.2.1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions/4.2.2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions/4.2.3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions/4.2.4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions/4.2.5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions/4.2.6.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions/4.2.7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator/4.3.1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator/4.3.2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator/4.3.3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator/4.3.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator/4.3.5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator/4.3.6.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,89 +70,91 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.2.2.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.2.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.2.9 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.3.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.3.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.3.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.3.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.3.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.4.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.2.5.11.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.1.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.1.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.3.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.3.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.4.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.4.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.5.1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.3.5.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.6.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.7.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.7.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.7.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.7.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.7.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.7.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.8.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.3.9.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.1.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.4.2.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.10.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.1.9.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.03.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.04.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.05.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.06.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.2.07.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.3.1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.3.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.3.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.3.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.3.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.5.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.4.8.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5.2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5.3.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5.6.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.5.7.executor&quot;: &quot;Run&quot;,
-    &quot;Python.6.6.6.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/evg_shamshin/Documents/py_projects/py_balakirev&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.2.2.11.executor": "Run",
+    "Python.2.2.3.executor": "Run",
+    "Python.2.2.8.executor": "Run",
+    "Python.2.2.9 (1).executor": "Run",
+    "Python.2.3.3.executor": "Run",
+    "Python.2.3.5.executor": "Run",
+    "Python.2.3.6.executor": "Run",
+    "Python.2.3.7.executor": "Run",
+    "Python.2.3.8.executor": "Run",
+    "Python.2.4.1.executor": "Run",
+    "Python.2.5.11.executor": "Run",
+    "Python.3.1.10.executor": "Run",
+    "Python.3.1.4.executor": "Run",
+    "Python.3.3.6.executor": "Run",
+    "Python.3.3.8.executor": "Run",
+    "Python.3.4.2.executor": "Run",
+    "Python.3.4.5.executor": "Run",
+    "Python.3.5.1.executor": "Debug",
+    "Python.3.5.2.executor": "Run",
+    "Python.3.6.1.executor": "Run",
+    "Python.3.7.1.executor": "Run",
+    "Python.3.7.2.executor": "Run",
+    "Python.3.7.3.executor": "Run",
+    "Python.3.7.4.executor": "Run",
+    "Python.3.7.5.executor": "Run",
+    "Python.3.7.6.executor": "Run",
+    "Python.3.8.3.executor": "Run",
+    "Python.3.9.4.executor": "Run",
+    "Python.4.1.10.executor": "Run",
+    "Python.4.1.3.executor": "Run",
+    "Python.4.1.6.executor": "Run",
+    "Python.4.1.7.executor": "Run",
+    "Python.4.1.8.executor": "Run",
+    "Python.4.1.9.executor": "Run",
+    "Python.4.2.1.executor": "Run",
+    "Python.4.2.3.executor": "Run",
+    "Python.4.2.4.executor": "Run",
+    "Python.4.2.5.executor": "Run",
+    "Python.4.2.6.executor": "Run",
+    "Python.4.2.7.executor": "Run",
+    "Python.4.3.5.executor": "Run",
+    "Python.4.3.6.executor": "Run",
+    "Python.6.1.03.executor": "Run",
+    "Python.6.1.10.executor": "Run",
+    "Python.6.1.3.executor": "Run",
+    "Python.6.1.4.executor": "Run",
+    "Python.6.1.5.executor": "Run",
+    "Python.6.1.6.executor": "Run",
+    "Python.6.1.7.executor": "Run",
+    "Python.6.1.8.executor": "Run",
+    "Python.6.1.9.executor": "Run",
+    "Python.6.2.03.executor": "Run",
+    "Python.6.2.04.executor": "Run",
+    "Python.6.2.05.executor": "Run",
+    "Python.6.2.06.executor": "Run",
+    "Python.6.2.07.executor": "Run",
+    "Python.6.3.1.executor": "Run",
+    "Python.6.3.4.executor": "Run",
+    "Python.6.3.5.executor": "Run",
+    "Python.6.3.6.executor": "Run",
+    "Python.6.3.8.executor": "Run",
+    "Python.6.4.3.executor": "Run",
+    "Python.6.4.4.executor": "Run",
+    "Python.6.4.5.executor": "Run",
+    "Python.6.4.6.executor": "Run",
+    "Python.6.4.7.executor": "Run",
+    "Python.6.4.8.executor": "Run",
+    "Python.6.5.2.executor": "Run",
+    "Python.6.5.3.executor": "Run",
+    "Python.6.5.6.executor": "Run",
+    "Python.6.5.7.executor": "Run",
+    "Python.6.6.6.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/evg_shamshin/Documents/py_projects/py_balakirev",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\evg_shamshin\Documents\py_projects\py_balakirev\4_ conditional statements\4-1_if-else" />
@@ -161,53 +162,7 @@
       <recent name="C:\Users\evg_shamshin\Documents\py_projects\py_balakirev\2_introduction\2-1_variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.4.2.6">
-    <configuration name="4.2.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_projects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions/4.2.3.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="4.2.4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_projects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions/4.2.4.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.4.3.6">
     <configuration name="4.2.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
@@ -277,13 +232,59 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4.3.5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator/4.3.5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.3.6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator/4.3.6.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.3.6" />
+        <item itemvalue="Python.4.3.5" />
         <item itemvalue="Python.4.2.6" />
         <item itemvalue="Python.4.2.7" />
         <item itemvalue="Python.4.2.5" />
-        <item itemvalue="Python.4.2.4" />
-        <item itemvalue="Python.4.2.3" />
       </list>
     </recent_temporary>
   </component>
@@ -340,7 +341,8 @@
       <workItem from="1723666705923" duration="3134000" />
       <workItem from="1723718149780" duration="19583000" />
       <workItem from="1723824812365" duration="5310000" />
-      <workItem from="1723839767492" duration="1528000" />
+      <workItem from="1723839767492" duration="2526000" />
+      <workItem from="1723925681382" duration="1324000" />
     </task>
     <task id="LOCAL-00003" summary="24.07.31">
       <option name="closed" value="true" />
@@ -478,7 +480,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723784690344</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="24.08.16">
+      <option name="closed" value="true" />
+      <created>1723841621762</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1723841621762</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -575,6 +585,7 @@
     <SUITE FILE_PATH="coverage/py_balakirev$2_3_8.coverage" NAME="2.3.8 Coverage Results" MODIFIED="1723322188082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-3_math function" />
     <SUITE FILE_PATH="coverage/py_balakirev$4_2_7.coverage" NAME="4.2.7 Coverage Results" MODIFIED="1723825258430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions" />
     <SUITE FILE_PATH="coverage/py_balakirev$4_1_9.coverage" NAME="4.1.9 Coverage Results" MODIFIED="1723753101204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_ conditional statements/4-1_if-else" />
+    <SUITE FILE_PATH="coverage/py_balakirev$4_3_5.coverage" NAME="4.3.5 Coverage Results" MODIFIED="1723926066283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator" />
     <SUITE FILE_PATH="coverage/py_balakirev$3_9_4.coverage" NAME="3.9.4 Coverage Results" MODIFIED="1723722232733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_string, list/3_9_list in list" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_3_5.coverage" NAME="6.3.5 Coverage Results" MODIFIED="1722880560510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_4_6.coverage" NAME="6.4.6 Coverage Results" MODIFIED="1722962875782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-4_set and set methods" />
@@ -585,6 +596,7 @@
     <SUITE FILE_PATH="coverage/py_projects$6_1_9.coverage" NAME="6.1.9 Coverage Results" MODIFIED="1722495086735" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
     <SUITE FILE_PATH="coverage/py_balakirev$4_2_1.coverage" NAME="4.2.1 Coverage Results" MODIFIED="1723788716110" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_ conditional statements/4-2_Nested conditions" />
     <SUITE FILE_PATH="coverage/py_balakirev$3_3_6.coverage" NAME="3.3.6 Coverage Results" MODIFIED="1723581081251" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_string, list/3-3_slice methods" />
+    <SUITE FILE_PATH="coverage/py_balakirev$4_3_6.coverage" NAME="4.3.6 Coverage Results" MODIFIED="1723926406147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_ conditional statements/4_3_ternary conditional operator" />
     <SUITE FILE_PATH="coverage/py_projects$6_1_8.coverage" NAME="6.1.8 Coverage Results" MODIFIED="1722456769912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-1_dict" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_3_1.coverage" NAME="6.3.1 Coverage Results" MODIFIED="1722960707919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_3_6.coverage" NAME="6.3.6 Coverage Results" MODIFIED="1722887605823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-3_tuple and tuple methods" />
