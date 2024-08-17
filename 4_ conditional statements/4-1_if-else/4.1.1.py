@@ -1,1 +1,0 @@
-print(max(list(map(float, input().split()))))
