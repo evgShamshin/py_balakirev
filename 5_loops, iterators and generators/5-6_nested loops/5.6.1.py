@@ -1,5 +1,6 @@
 n = int(input())
 res = []
+temp = []
 
 for _1 in range(n + 1):
     res.append(temp) if temp != [] else 1
