@@ -8,6 +8,13 @@ t = [
     "Как мы рубили их тогда!"
     ]
 
-lst = [[j for j in i.split() if len(j) > 3] for i in t]
+lst = []
+temp = []
+
+for j in [i.split() for i in t]:
+    temp = []
+    for k in j:
+        temp.append(k) if len(k) > 3 else ""
+    lst.append(temp)
 
 print(lst)
