@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="54498703-2cec-4989-ac1f-0a6caa9b5468" name="Changes" comment="24.09.03">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/py_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/py_projects.iml" afterDir="false" />
+    <list default="true" id="54498703-2cec-4989-ac1f-0a6caa9b5468" name="Changes" comment="24.09.05">
+      <change afterPath="$PROJECT_DIR$/7_functions/ 7-7_recursive functions/7.7.8.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_functions/ 7-7_recursive functions/7.7.7.py" beforeDir="false" afterPath="$PROJECT_DIR$/7_functions/ 7-7_recursive functions/7.7.7.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -209,6 +207,7 @@
     "Python.7.7.4.executor": "Debug",
     "Python.7.7.5.executor": "Run",
     "Python.7.7.7.executor": "Debug",
+    "Python.7.7.8.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/evg_shamshin/Documents/py_projects/py_balakirev/7_functions",
@@ -235,30 +234,7 @@
       <recent name="C:\Users\evg_shamshin\Documents\py_projects\py_balakirev\2_introduction\2-1_variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.7.7.7">
-    <configuration name="7.7.2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="py_projects" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_functions/ 7-7_recursive functions" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_functions/ 7-7_recursive functions/7.7.2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.7.7.8">
     <configuration name="7.7.3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="py_projects" />
       <option name="ENV_FILES" value="" />
@@ -351,13 +327,36 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="7.7.8" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="py_projects" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_functions/ 7-7_recursive functions" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_functions/ 7-7_recursive functions/7.7.8.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.7.7.8" />
         <item itemvalue="Python.7.7.7" />
         <item itemvalue="Python.7.7.5" />
         <item itemvalue="Python.7.7.4" />
         <item itemvalue="Python.7.7.3" />
-        <item itemvalue="Python.7.7.2" />
       </list>
     </recent_temporary>
   </component>
@@ -435,6 +434,7 @@
       <workItem from="1725301266773" duration="5287000" />
       <workItem from="1725383132636" duration="8104000" />
       <workItem from="1725475334005" duration="6350000" />
+      <workItem from="1725649291287" duration="1933000" />
     </task>
     <task id="LOCAL-00003" summary="24.07.31">
       <option name="closed" value="true" />
@@ -716,7 +716,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725383163509</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="24.09.05">
+      <option name="closed" value="true" />
+      <created>1725567542072</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1725567542072</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -734,7 +742,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="24.08.02" />
     <MESSAGE value="24.08.05" />
     <MESSAGE value="24.08.06" />
     <MESSAGE value="24.08.07" />
@@ -759,7 +766,8 @@
     <MESSAGE value="24.08.31" />
     <MESSAGE value="24.09.01" />
     <MESSAGE value="24.09.03" />
-    <option name="LAST_COMMIT_MESSAGE" value="24.09.03" />
+    <MESSAGE value="24.09.05" />
+    <option name="LAST_COMMIT_MESSAGE" value="24.09.05" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -806,8 +814,8 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/py_balakirev$7_7_7.coverage" NAME="7.7.7 Coverage Results" MODIFIED="1725567289729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_functions/ 7-7_recursive functions" />
-    <SUITE FILE_PATH="coverage/py_balakirev$3_7_1.coverage" NAME="3.7.1 Coverage Results" MODIFIED="1723621040534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_string, list/3_7_slice list" />
     <SUITE FILE_PATH="coverage/py_balakirev$7_5_5.coverage" NAME="7.5.5 Coverage Results" MODIFIED="1725212686703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_functions/7-5_functions arbitrary number" />
+    <SUITE FILE_PATH="coverage/py_balakirev$3_7_1.coverage" NAME="3.7.1 Coverage Results" MODIFIED="1723621040534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_string, list/3_7_slice list" />
     <SUITE FILE_PATH="coverage/py_balakirev$5_8_2.coverage" NAME="5.8.2 Coverage Results" MODIFIED="1724701253821" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_loops, iterators and generators/5-8_list comprehension" />
     <SUITE FILE_PATH="coverage/py_balakirev$7_6_3.coverage" NAME="7.6.3 Coverage Results" MODIFIED="1725302333827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_functions/7-6_packaging and unpacking" />
     <SUITE FILE_PATH="coverage/py_balakirev$2_2_9__1_.coverage" NAME="2.2.9 (1) Coverage Results" MODIFIED="1723235764772" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_introduction/2-1_variables" />
@@ -931,6 +939,7 @@
     <SUITE FILE_PATH="coverage/py_balakirev$7_2_1.coverage" NAME="7.2.1 Coverage Results" MODIFIED="1725035164302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_functions/7-2_functions return" />
     <SUITE FILE_PATH="coverage/py_projects$6_2_07.coverage" NAME="6.2.07 Coverage Results" MODIFIED="1722714778455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-2_dict methods" />
     <SUITE FILE_PATH="coverage/py_balakirev$5_6_8.coverage" NAME="5.6.8 Coverage Results" MODIFIED="1724610736877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_loops, iterators and generators/5-6_nested loops" />
+    <SUITE FILE_PATH="coverage/py_balakirev$7_7_8.coverage" NAME="7.7.8 Coverage Results" MODIFIED="1725653219472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_functions/ 7-7_recursive functions" />
     <SUITE FILE_PATH="coverage/py_balakirev$3_7_3.coverage" NAME="3.7.3 Coverage Results" MODIFIED="1723621300952" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_string, list/3_7_slice list" />
     <SUITE FILE_PATH="coverage/py_balakirev$6_5_7.coverage" NAME="6.5.7 Coverage Results" MODIFIED="1723063406938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_dict,tuple,set/6-5_set comparing" />
     <SUITE FILE_PATH="coverage/py_balakirev$7_4_6.coverage" NAME="7.4.6 Coverage Results" MODIFIED="1725138265880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7_functions/7_4_ named arguments" />
