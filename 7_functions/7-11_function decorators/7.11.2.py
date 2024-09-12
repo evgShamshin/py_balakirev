@@ -1,15 +1,15 @@
 def get_menu(func):
-    def wrapper(*args):
-        _list = [[pos + 1, i] for pos, i in enumerate(args[0].split())]
-        for i in _list:
-            print(f"{i[0]}. {i[1]}")
+    def wrapper(l):
+        for pos, i in enumerate(func(l)):
+            print(f"{pos + 1}. {i}")
+
 
     return wrapper
 
 
 @get_menu
-def show_menu(*l):
-    return l
+def show_menu(l):
+    return l.split()
 
 
 menu = input()
