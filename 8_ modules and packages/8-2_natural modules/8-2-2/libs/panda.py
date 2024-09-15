@@ -1,0 +1,3 @@
+NAME = "panda"
+
+print(NAME)
