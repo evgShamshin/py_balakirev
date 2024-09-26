@@ -1,6 +1,6 @@
 import sys
 
-lst_in = map(lambda x: str(x).strip(), sys.stdin.readlines())
+lst_in = list(map(str.strip, sys.stdin.readlines()))
 lst_out = list(map(lambda x: x.split(";"), lst_in))
 
 for i in range(len(lst_out)):
@@ -9,4 +9,5 @@ for i in range(len(lst_out)):
 
 
 t_sorted = tuple((i[1], i[3], i[2], i[0]) for i in lst_out)
-lst_out = sorted(lst_in)
+
+print(t_sorted)
