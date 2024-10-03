@@ -1,10 +1,23 @@
-'''
+import sys
+
+
 def verify(l):
-    l= l.split()
-    return l
+    flag = False
+    for i in range(len(l) - 1):
+        if len(l) == 2 and sum(l[i]) >= 1: return flag
+        for j in range(len(l) - 1):
+            print(f"i, j, {i},{j}")
+            if (l[i][j] + l[i][j + 1] + l[i + 1][j] + l[i + 1][j + 1]) > 1:
+                return flag
+        else:
+            continue
+        break
+    else:
+        flag = True
 
-print(verify(input()))
+    return flag
 
 
-#def is_isolate()
-'''
+lines = sys.stdin.readlines()
+lst2D = [list(map(int, i.rstrip().split())) for i in lines]
+print(verify(lst2D))
